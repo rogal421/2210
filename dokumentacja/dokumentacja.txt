@@ -1,0 +1,8 @@
+System operacyjny: Windows 11 
+Środowiska programistyczne: 
+- Visual Studio Code
+- Visual Studio
+
+Języki programowania: 
+- C#
+- JS
